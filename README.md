@@ -11,7 +11,7 @@ A unified chat interface for multiple AI models powered by Gradio. This applicat
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/anychat.git
+git clone https://github.com/AK391/anychat.git
 ```
 2. Install dependencies:
 ```bash
@@ -83,11 +83,7 @@ Three categories of models:
 3. **Open Source Models** (8B-70B parameters)
    - Based on Hugging Face implementations
 
-## API Keys Required
 
-- SambaNova API key for Meta Llama models
-- Hyperbolic API key for Qwen2.5
-- Perplexity API key (beta access required for online features)
 
 ## Technical Details
 
