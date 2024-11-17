@@ -13,18 +13,19 @@ A unified chat interface for multiple AI models powered by Gradio. This applicat
 ```bash
 git clone https://github.com/AK391/anychat.git
 ```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-
-```
-
-### Running the Application
-1. Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
 cd anychat
 ```
 
+
+### Running the Application
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+
+```
 2. Start the application:
 ```bash
 python app.py
