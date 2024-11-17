@@ -2,6 +2,39 @@
 
 A unified chat interface for multiple AI models powered by Gradio. This application provides access to various leading AI models through a simple tab-based interface.
 
+## Getting Started
+
+### Prerequisites
+- Python 3.8 or higher
+- pip package manager
+
+### Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/anychat.git
+```
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+
+```
+
+### Running the Application
+1. Navigate to the project directory:
+```bash
+cd anychat
+```
+
+2. Start the application:
+```bash
+python app.py
+```
+
+3. Open your web browser and go to:
+```
+http://localhost:7860
+```
+
 ## Features
 
 - **Tab-Based Interface**: Easy switching between different AI models
